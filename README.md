@@ -1,16 +1,29 @@
-## Hi there 👋
+# BS Political Science (4th Semester)
 
-<!--
-**hadianadeem786/hadianadeem786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my notes, assignments, and study material for BS Political Science 4th Semester.
 
-Here are some ideas to get you started:
+## About Me
+I am a student of BS Political Science, currently studying in 4th semester.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contents
+- Assignments  
+- Lecture Notes  
+- Short Notes  
+- Exam Preparation Material  
+
+## Subjects
+- Political Theory  
+- Comparative Politics  
+- International Relations  
+- Public Administration  
+- Pakistan Studies / Constitution of Pakistan  
+- Research Methodology  
+
+## Purpose
+This repository is made to organize my academic work and improve my learning.
+
+## Author
+Name: [Hadia]  
+Program: BS Political Science  
+Semester: 4th Semester  
+University: [GC Sialkot]
